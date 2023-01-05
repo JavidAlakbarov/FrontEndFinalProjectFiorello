@@ -470,3 +470,127 @@
 }
 /* categories end  */
 
+.choice{
+  background-color:#dbd4d4; 
+  height: 200px;
+  padding-top: 80px;
+  font-family: "Playfair Display",serif;
+}
+
+.blog7 img{
+  width:800px ;
+}
+
+.message h1{
+  font-family: "Playfair Display",serif;
+}
+.message span{
+  font-family: 'Lora', serif;
+}
+
+
+/* footer side start */
+footer {
+  background-color: #fefaf3;
+}
+
+.container-holder {
+  padding-top: 90px;
+}
+
+.container-holder .row .holder-header {
+  color: #1b1b1b;
+  font-family: 'Lora', serif;
+  line-height: 2em;
+  font-weight: 500;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.container-holder .row .holder-header h6 {
+  font-size: 12px;
+  padding-bottom: 15px;
+}
+
+.container-holder .row .holder-text .menu li {
+  list-style: none;
+  font-size: 12px;
+  color: #8b8b8b;
+  font-family: 'Lora', serif;
+  line-height: 2em;
+  font-weight: 500;
+  letter-spacing: 0.1em;
+  margin-left: -32px;
+  cursor: pointer;
+}
+
+.container-holder .row .holder-text .menu li:hover {
+  color: #f34f3f;
+}
+
+.line hr {
+  height: 1px;
+  width: 1300px;
+  padding-left: 50px;
+  margin-top: 100px;
+  color: #afafaf;
+}
+
+.container-conclusion{
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.container-conclusion .row .text-widget .all-rights-reserved {
+  list-style: none;
+  font-size: 12px;
+  color: #8b8b8b;
+  font-family: 'Lora', serif;
+  line-height: 2em;
+  font-weight: 500;
+  letter-spacing: 0.1em;
+}
+
+.container-conclusion .row .text-widget .qode-int{
+  list-style: none;
+  font-size: 12px;
+  color: #6d6a6a;
+  font-family: 'Lora', serif;
+  line-height: 2em;
+  font-weight: 500;
+  letter-spacing: 0.1em;
+  cursor: pointer;
+}
+
+.container-conclusion .insta a {
+  list-style: none;
+  font-size: 12px;
+  color: #8b8b8b;
+  font-family: 'Lora', serif;
+  line-height: 2em;
+  font-weight: 500;
+  letter-spacing: 0.1em;
+  text-decoration: none;
+  margin-left: 195px;
+}
+
+.container-conclusion .fb a {
+  list-style: none;
+  font-size: 12px;
+  color: #8b8b8b;
+  font-family: 'Lora', serif;
+  line-height: 2em;
+  font-weight: 500;
+  letter-spacing: 0.1em;
+  text-decoration: none;
+  margin-left: 60px;
+}
+
+.container-conclusion .footer-img img{
+  margin-left: 110px;
+}
+
+.container-conclusion .social-media{
+  display: flex;
+}
+ /* footer side end */
