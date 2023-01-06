@@ -308,7 +308,7 @@
   .colorfull-brunch .colorfull-brunch-text h5{
     font-size: 20px;
     line-height: 1.4em;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif cursive;
+    font-family: Lora,serif;
     font-weight: 400;
     color: gray;
     text-align: center;
@@ -320,6 +320,12 @@
     margin-top: 100px;
     display: flex;
     margin: 50px 0;
+  }
+  .video h1{
+    font-family: "Playfair Display",serif;
+  }
+  .video h5{
+    font-family: Lora,serif;
   }
   
   .video .video-img {
